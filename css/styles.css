@@ -30,6 +30,7 @@ body {
 
 .button a {
   text-decoration: none;
+  color: white;
 }
 
 .button a:visited {
@@ -39,7 +40,7 @@ body {
 
 .button:hover {
   background-color: #576691;
-  color: #344166;
+  color: white;
 }
 
 .divider {
