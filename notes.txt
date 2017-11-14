@@ -1,0 +1,1 @@
+For links, use "#" instead of URLs for your HTML mark-up (i.e. <a href="#">LINK</a>)
